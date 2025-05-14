@@ -20,7 +20,6 @@ Yuxuan Han, Junfeng Lyu, Kuan Sheng, Minghao Que, Qixuan Zhang, Lan Xu, and Feng
 [Project Page](https://yxuhan.github.io/DoRA/index.html) | [Video]() | [Paper]()
 
 ## Release Plan
-Due to the license issue, we can not release the diffusion prior trained on the 3D Scanstore dataset.
 To help the research community reimplement our work, we plan to release the diffusion prior trained on the [GauFace dataset](https://dafei-qin.github.io/TransGS.github.io/) and provide the full inverse rendering code.
 Gauface is also a Light Stage dataset containing 4Kx4K diffuse albedo, specular albedo, and the tangent-space normal maps.
 This version of code can still achieve near production-level results as we shown in the paper and the video.
