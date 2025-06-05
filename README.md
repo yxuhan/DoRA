@@ -17,7 +17,7 @@ This is a PyTorch implementation of the following paper:
 
 Yuxuan Han, Junfeng Lyu, Kuan Sheng, Minghao Que, Qixuan Zhang, Lan Xu, and Feng Xu
 
-[Project Page](https://yxuhan.github.io/DoRA/index.html) | [Video]() | [Paper]()
+[Project Page](https://yxuhan.github.io/DoRA/index.html) | [Video](https://www.bilibili.com/video/BV1Mh7nzvEUn/) | [Paper](https://arxiv.org/abs/2506.03478)
 
 ## Release Plan
 To help the research community reimplement our work, we plan to release the diffusion prior trained on the [GauFace dataset](https://dafei-qin.github.io/TransGS.github.io/) and provide the full inverse rendering code.
