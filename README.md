@@ -39,7 +39,7 @@ This repository can <b>only be used for personal/research/non-commercial purpose
 Please cite the following paper if it helps your research:
 
     @inproceedings{han2025dora,
-        author = {Han, Yuxuan and Lyu, Junfeng and Sheng, Kuan and Que, Minghao and Zhang, Qixuan and Xu, Lan, and Xu, Feng},
+        author = {Han, Yuxuan and Lyu, Junfeng and Sheng, Kuan and Que, Minghao and Zhang, Qixuan and Xu, Lan and Xu, Feng},
         title = {Facial Appearance Capture at Home with Patch-Level Reflectance Prior},
         journal={SIGGRAPH},
         year={2025}
